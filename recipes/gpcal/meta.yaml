@@ -29,7 +29,8 @@ requirements:
     - pandas
     - python
     - scipy
-
+  test:
+    - gpcal
 
 about:
   home: "https://github.com/jhparkastro/gpcal"
